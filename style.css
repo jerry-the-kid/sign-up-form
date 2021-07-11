@@ -83,6 +83,7 @@ body {
   padding: 4rem;
   border-radius: 10px;
   font-weight: 400;
+  box-shadow: 0 0.5rem hsl(249deg 10% 26% / 25%);
 }
 
 .input {
